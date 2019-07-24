@@ -1,0 +1,20 @@
+mail163:
+  psw_mail:
+    dec: 密码登录在这里
+    type: css
+    value: "#lbNormal"
+
+  mail_login:
+    dec: 邮箱账号或手机号码
+    type: css
+    value: "[name='email']"
+
+  psw_login:
+    dec: 输入密码
+    type: css
+    value: "[name='password']"
+
+  login_frame:
+    dec: 账号和密码登录框frame
+    type: css
+    value: "#loginDiv>iframe"

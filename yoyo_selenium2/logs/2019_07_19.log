@@ -1,0 +1,6 @@
+[2019-07-19 17:04:35,085] - logger.py] - INFO: 开始执行用例test_home
+[2019-07-19 17:04:35,087] - logger.py] - INFO: 用例test_home执行结束
+[2019-07-19 17:06:35,518] - logger.py] - DEBUG: 开始执行用例test_home_1
+[2019-07-19 17:06:35,522] - logger.py] - ERROR: 用例test_home_1执行时报错
+[2019-07-19 17:07:03,557] - logger.py] - INFO: 开始执行用例test_home
+[2019-07-19 17:07:03,562] - logger.py] - INFO: 用例test_home执行结束

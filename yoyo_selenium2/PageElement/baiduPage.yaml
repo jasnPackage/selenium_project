@@ -1,0 +1,15 @@
+baiduPage:
+  search_box:
+    dec: 百度搜索输入框
+    type: css
+    value: "#kw"
+
+  baidu_button:
+    dec: 百度按钮
+    type: css
+    value: "#su"
+
+  search_result:
+    dec: 搜索结果
+    type: css
+    value: ".t.c-gap-bottom-small>a>em"
